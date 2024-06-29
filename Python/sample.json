@@ -1,0 +1,20 @@
+{
+    "people": [
+        {
+            "Name": "Sudais",
+            "Gender": "Male",
+            "Phone": "0333-3137735",
+            "Nationality": "Pakistan",
+            "Religion": "Islam",
+            "Email": "sudaisahmed710@gmail.com"
+        },
+        {
+            "Name": "Shifa",
+            "Gender": "Female",
+            "Phone": "0336-8478422",
+            "Nationality": "Pakistan",
+            "Religion": "Islam",
+            "Email": "shifaahmed2205@gmail.com"
+        }
+    ]
+}
